@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "ansi-colors": "4.1.1",
-    "autoprefixer": "9.6.1",
+    "autoprefixer": "9.6.5",
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
     "babel-preset-env": "^1.7.0",
