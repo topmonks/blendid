@@ -54,7 +54,7 @@
     "minimist": "^1.2.0",
     "node-fs-extra": "^0.8.2",
     "node-sass": "^4.13.1",
-    "open": "7.0.0",
+    "open": "7.0.1",
     "plugin-error": "^1.0.1",
     "postcss-easy-import": "^3.0.0",
     "postcss-node-sass": "^2.1.8",
