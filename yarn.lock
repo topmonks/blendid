@@ -1131,14 +1131,13 @@ cloneable-readable@^1.0.0:
     process-nextick-args "^2.0.0"
     readable-stream "^2.3.5"
 
-cloudinary@^1.13.1, cloudinary@^1.19.0:
-  version "1.19.0"
-  resolved "https://registry.yarnpkg.com/cloudinary/-/cloudinary-1.19.0.tgz#333dafb53ee32efea5457e28a80ecb8f6d31e48c"
-  integrity sha512-oEz4Fsqshd9SI7UAvF1CCyAmt3wgsv8tK1eRY0900gQaq+wP8TAzpruxpbQCmxvF6gL9Po7OpO0m0Jefx6uK8w==
+cloudinary@^1.13.1, cloudinary@^1.20.0:
+  version "1.20.0"
+  resolved "https://registry.yarnpkg.com/cloudinary/-/cloudinary-1.20.0.tgz#88f3964be91cc9808b5c7834bf06e03d22954636"
+  integrity sha512-/e76lEr5PS5gefvWUJ2Ou90zuEQCc0agTq8hrx2uxfFhUGlzEQ9mPPcwAeHFY1gj9caq0iHLuvTDvBbLSRhX9w==
   dependencies:
     lodash "^4.17.11"
     q "^1.5.1"
-    typescript "^2.9.2"
 
 coa@^2.0.2:
   version "2.0.2"
@@ -6424,11 +6423,6 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
-
-typescript@^2.9.2:
-  version "2.9.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.9.2.tgz#1cbf61d05d6b96269244eb6a3bce4bd914e0f00c"
-  integrity sha512-Gr4p6nFNaoufRIY4NMdpQRNmgxVIGMs4Fcu/ujdYk3nAZqk7supzBE9idmvfZIlH/Cuj//dvi+019qEue9lV0w==
 
 "typescript@^2.9.2 || ^3.0.0":
   version "3.7.5"
