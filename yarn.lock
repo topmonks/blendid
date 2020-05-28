@@ -3150,10 +3150,10 @@ interpret@^1.1.0:
   resolved "https://registry.yarnpkg.com/interpret/-/interpret-1.2.0.tgz#d5061a6224be58e8083985f5014d844359576296"
   integrity sha512-mT34yGKMNceBQUoVn7iCDKDntA7SC6gycMAWzGx1z/CMCTV7b2AAtXlo3nRyHZ1FelRkQbQjprHSYGwzLtkVbw==
 
-intl-locales-supported@^1.8.8:
-  version "1.8.8"
-  resolved "https://registry.yarnpkg.com/intl-locales-supported/-/intl-locales-supported-1.8.8.tgz#d53ef0dc72a6af20e58a251d1b2666f2db4c32e6"
-  integrity sha512-mlbJIVafpWJlB1JzDPc/QHDTkvLec/2mDf6zAumaN8LNyI4s52lvNjhTj1s7Gtff0t8vZu7lM//VB/J5j3Qa+g==
+intl-locales-supported@^1.8.10:
+  version "1.8.10"
+  resolved "https://registry.yarnpkg.com/intl-locales-supported/-/intl-locales-supported-1.8.10.tgz#66c90ee2b6fbab5326f8bd9874b253bf3fb0bf22"
+  integrity sha512-CKSmdBy6YHBbocLjDH/OyWJCjDTPZiuvqYzz19Lsfj602E5LptrJcnxAYng/QKJjt+avS8vqFYJB5h0EGX08KQ==
 
 intl@^1.2.5:
   version "1.2.5"
