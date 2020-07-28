@@ -31,7 +31,7 @@
     "cssnano": "^4.1.10",
     "del": "5.1.0",
     "fancy-log": "^1.3.2",
-    "fs-extra": "8.1.0",
+    "fs-extra": "9.0.1",
     "gulp": "4.0.2",
     "gulp-changed": "^4.0.2",
     "gulp-cloudinary-upload": "https://github.com/topmonks/gulp-cloudinary-upload.git#50b82e73a9d9cd4b350647b8717e843c1acd201a",
