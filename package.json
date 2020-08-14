@@ -49,7 +49,7 @@
     "gulp-sourcemaps": "git://github.com/gulp-sourcemaps/gulp-sourcemaps.git",
     "gulp-svgmin": "^3.0.0",
     "gulp-svgstore": "7.0.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.20",
     "merge-stream": "2.0.0",
     "minify-html-literals": "^1.3.0",
     "minimist": "^1.2.5",
