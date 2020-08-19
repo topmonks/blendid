@@ -4967,10 +4967,10 @@ mime@1.4.1:
   resolved "https://registry.yarnpkg.com/mime/-/mime-1.4.1.tgz#121f9ebc49e3766f311a76e1fa1c8003c4b03aa6"
   integrity sha512-KI1+qOZu5DcW6wayYHSzR/tXKCDC5Om4s1z2QJjDULzLcmf3DvzS7oluY4HCTrc+9FiKmWUgeNLg7W3uIQvxtQ==
 
-minify-html-literals@^1.3.0, minify-html-literals@^1.3.1:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/minify-html-literals/-/minify-html-literals-1.3.1.tgz#caca3d718c535da2088cb01281f462ed5c7b8373"
-  integrity sha512-6nuEv/0xCHGlIsqNqXl8ah3jvZyO8Iopc8qsUHV+bvKsdB2qCqpHpfp3FabAV4/g32Jge33EtcgZVt2JpZvH3g==
+minify-html-literals@^1.3.0, minify-html-literals@^1.3.2:
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/minify-html-literals/-/minify-html-literals-1.3.2.tgz#9983d290fa39d1e4230a5904735e01faa5122403"
+  integrity sha512-DBdi0md84vjvwmLoo9xleFV5FkhzOwfKBqcmoVFL54c9CFlSBtG9KTKEQqiwscB+acewculqys1cDnwyrYlNtg==
   dependencies:
     "@types/html-minifier" "^3.5.3"
     clean-css "^4.2.1"
@@ -6404,12 +6404,12 @@ rollup-plugin-babel@^4.3.3:
     "@babel/helper-module-imports" "^7.0.0"
     rollup-pluginutils "^2.8.1"
 
-rollup-plugin-minify-html-literals@^1.2.3:
-  version "1.2.4"
-  resolved "https://registry.yarnpkg.com/rollup-plugin-minify-html-literals/-/rollup-plugin-minify-html-literals-1.2.4.tgz#eac3a1341a0e05da9611e1ecad91bf5ee870860b"
-  integrity sha512-z9d+wsPG5EUqDV4gYxHugLYt1l45wU4/O781MD8/rjHnb9kxfn+/nOtBT/t8DVU1vgP5H3Qy/Qvh9+5IbOQZ3Q==
+rollup-plugin-minify-html-literals@^1.2.5:
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/rollup-plugin-minify-html-literals/-/rollup-plugin-minify-html-literals-1.2.5.tgz#e9d5f46c1ba3f52827fc5c9bebecb4edc8d5e72e"
+  integrity sha512-x4FzCnbBpYdme7MQDS3+18CvYLqakAtM/JmA3hqXplwzMeZWW3l14KU7H33RhJlHH8Klgv49hGtBRLWLfjCudw==
   dependencies:
-    minify-html-literals "^1.3.1"
+    minify-html-literals "^1.3.2"
     rollup-pluginutils "^2.8.2"
 
 rollup-plugin-terser@^5.2.0, rollup-plugin-terser@^5.3.0:
