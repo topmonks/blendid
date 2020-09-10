@@ -67,7 +67,7 @@
     "terser": "^4.6.13",
     "through2": "^4.0.2",
     "vinyl": "^2.2.0",
-    "workbox-build": "5.1.3"
+    "workbox-build": "5.1.4"
   },
   "devDependencies": {
     "@material/layout-grid": "^7.0.0",
