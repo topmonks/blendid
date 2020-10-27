@@ -2276,15 +2276,14 @@ css-what@^3.2.1:
   resolved "https://registry.yarnpkg.com/css-what/-/css-what-3.3.0.tgz#10fec696a9ece2e591ac772d759aacabac38cd39"
   integrity sha512-pv9JPyatiPaQ6pf4OvD/dbfm0o5LviWmwxNWzblYf/1u9QZd0ihV+PMwy5jdQWQ3349kZmKEx9WXuSka2dM4cg==
 
-css@^2.0.0:
-  version "2.2.4"
-  resolved "https://registry.yarnpkg.com/css/-/css-2.2.4.tgz#c646755c73971f2bba6a601e2cf2fd71b1298929"
-  integrity sha512-oUnjmWpy0niI3x/mPL8dVEI1l7MnG3+HHyRPHf+YFSbK+svOhXpmSOcDURUh2aOCgl2grzrOPt1nHLuCVFULLw==
+css@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/css/-/css-3.0.0.tgz#4447a4d58fdd03367c516ca9f64ae365cee4aa5d"
+  integrity sha512-DG9pFfwOrzc+hawpmqX/dHYHJG+Bsdb0klhyi1sDneOgGOXy9wQIC8hzyVp1e4NRYDBdxcylvywPkkXCHAzTyQ==
   dependencies:
-    inherits "^2.0.3"
+    inherits "^2.0.4"
     source-map "^0.6.1"
-    source-map-resolve "^0.5.2"
-    urix "^0.1.0"
+    source-map-resolve "^0.6.0"
 
 cssesc@^3.0.0:
   version "3.0.0"
@@ -3753,13 +3752,14 @@ gulp-sizereport@1.2.1:
 
 "gulp-sourcemaps@git://github.com/gulp-sourcemaps/gulp-sourcemaps.git":
   version "3.0.0-0"
-  resolved "git://github.com/gulp-sourcemaps/gulp-sourcemaps.git#9a9289b72f2a111ecd858e1fbec8cf7544e74268"
+  uid d8bed0c282f6975daa48b4ecd2053528a0b7b2e5
+  resolved "git://github.com/gulp-sourcemaps/gulp-sourcemaps.git#d8bed0c282f6975daa48b4ecd2053528a0b7b2e5"
   dependencies:
     "@gulp-sourcemaps/identity-map" "^2.0.1"
     "@gulp-sourcemaps/map-sources" "^1.0.0"
     acorn "^6.4.1"
     convert-source-map "^1.0.0"
-    css "^2.0.0"
+    css "^3.0.0"
     debug-fabulous "^1.0.0"
     detect-newline "^2.0.0"
     graceful-fs "^4.0.0"
@@ -6883,7 +6883,7 @@ sort-object@^0.0.6:
   dependencies:
     lodash "~2.2.1"
 
-source-map-resolve@^0.5.0, source-map-resolve@^0.5.2, "source-map-resolve@npm:source-map-resolve@0.6.0":
+source-map-resolve@^0.5.0, source-map-resolve@^0.6.0, "source-map-resolve@npm:source-map-resolve@0.6.0":
   version "0.6.0"
   resolved "https://registry.yarnpkg.com/source-map-resolve/-/source-map-resolve-0.6.0.tgz#3d9df87e236b53f16d01e58150fc7711138e5ed2"
   integrity sha512-KXBr9d/fO/bWo97NXsPIAW1bFSBOuCnjbNTBMO7N59hsv5i9yzRDfcYwwt0l04+VqnKC+EwzvJZIP/qkuMgR/w==
@@ -7687,11 +7687,6 @@ uri-js@^4.2.2:
   integrity sha512-KY9Frmirql91X2Qgjry0Wd4Y+YTdrdZheS8TFwvkbLWf/G5KNJDCh6pKL5OZctEW4+0Baa5idK2ZQuELRwPznQ==
   dependencies:
     punycode "^2.1.0"
-
-urix@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/urix/-/urix-0.1.0.tgz#da937f7a62e21fec1fd18d49b35c2935067a6c72"
-  integrity sha1-2pN/emLiH+wf0Y1Js1wpNQZ6bHI=
 
 use@^3.1.0:
   version "3.1.1"
