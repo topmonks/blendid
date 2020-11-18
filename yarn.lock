@@ -3801,8 +3801,9 @@ gulp-sizereport@^1.2.1:
     through2 "^2.0.1"
 
 "gulp-sourcemaps@git://github.com/gulp-sourcemaps/gulp-sourcemaps.git":
-  version "3.0.0-0"
-  resolved "git://github.com/gulp-sourcemaps/gulp-sourcemaps.git#d8bed0c282f6975daa48b4ecd2053528a0b7b2e5"
+  version "3.0.0"
+  uid "2bcfcbb11085d1d6ef54239abd156bf7a7e72cfe"
+  resolved "git://github.com/gulp-sourcemaps/gulp-sourcemaps.git#2bcfcbb11085d1d6ef54239abd156bf7a7e72cfe"
   dependencies:
     "@gulp-sourcemaps/identity-map" "^2.0.1"
     "@gulp-sourcemaps/map-sources" "^1.0.0"
