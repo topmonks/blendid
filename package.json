@@ -70,7 +70,7 @@
     "@material/layout-grid": "^8.0.0",
     "chai": "^4.2.0",
     "mocha": "^8.2.1",
-    "prettier": "^2.1.2"
+    "prettier": "^2.2.1"
   },
   "resolutions": {
     "chokidar": "npm:chokidar@3.4.1",
