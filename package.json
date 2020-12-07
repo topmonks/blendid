@@ -59,7 +59,7 @@
     "rollup": "^2.34.1",
     "rollup-plugin-minify-html-literals": "^1.2.5",
     "rollup-plugin-terser": "^7.0.2",
-    "sass": "^1.29.0",
+    "sass": "^1.30.0",
     "stream-array": "^1.1.2",
     "terser": "^4.6.13",
     "through2": "^4.0.2",
