@@ -69,7 +69,7 @@
   "devDependencies": {
     "@material/layout-grid": "^10.0.0",
     "chai": "^4.3.3",
-    "mocha": "^8.3.0",
+    "mocha": "^8.3.1",
     "prettier": "^2.2.1"
   },
   "resolutions": {
