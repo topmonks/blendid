@@ -57,7 +57,7 @@
     "plugin-error": "^1.0.1",
     "postcss": "^8.2.10",
     "pretty-hrtime": "^1.0.3",
-    "rollup": "^2.45.2",
+    "rollup": "^2.46.0",
     "rollup-plugin-minify-html-literals": "^1.2.6",
     "sass": "^1.32.10",
     "stream-array": "^1.1.2",
