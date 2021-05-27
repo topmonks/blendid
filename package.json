@@ -20,7 +20,7 @@
     "@rollup/plugin-alias": "^3.1.2",
     "@rollup/plugin-node-resolve": "^11.2.1",
     "ansi-colors": "4.1.1",
-    "autoprefixer": "10.2.5",
+    "autoprefixer": "10.2.6",
     "browser-sync": "2.26.14",
     "cloudinary": "^1.25.1",
     "cssnano": "^5.0.1",
