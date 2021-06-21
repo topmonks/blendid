@@ -68,7 +68,7 @@
   "devDependencies": {
     "@material/layout-grid": "^11.0.0",
     "chai": "^4.3.4",
-    "mocha": "^8.4.0",
+    "mocha": "^9.0.1",
     "prettier": "^2.3.0"
   }
 }
