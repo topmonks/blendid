@@ -58,7 +58,7 @@
     "pretty-hrtime": "^1.0.3",
     "rollup": "^2.52.2",
     "rollup-plugin-minify-html-literals": "^1.2.6",
-    "sass": "=1.32.10",
+    "sass": "=1.35.2",
     "stream-array": "^1.1.2",
     "through2": "^4.0.2",
     "vinyl": "^2.2.1",
