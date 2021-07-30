@@ -17,7 +17,7 @@
     "outdated": "yarn upgrade-interactive"
   },
   "dependencies": {
-    "@rollup/plugin-alias": "^3.1.2",
+    "@rollup/plugin-alias": "^3.1.5",
     "@rollup/plugin-node-resolve": "^13.0.0",
     "ansi-colors": "4.1.1",
     "autoprefixer": "10.2.6",
