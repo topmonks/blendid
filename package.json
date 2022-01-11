@@ -63,7 +63,7 @@
     "stream-array": "^1.1.2",
     "through2": "^4.0.2",
     "vinyl": "^2.2.1",
-    "workbox-build": "^6.3.0"
+    "workbox-build": "^6.4.2"
   },
   "devDependencies": {
     "@material/layout-grid": "^12.0.0",
