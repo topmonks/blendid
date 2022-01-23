@@ -47,7 +47,7 @@
     "gulp-sizereport": "^1.2.1",
     "gulp-sourcemaps": "^3.0.0",
     "gulp-svgmin": "^4.1.0",
-    "gulp-svgstore": "^8.0.0",
+    "gulp-svgstore": "^9.0.0",
     "gulplog": "^1.0.0",
     "lodash": "^4.17.21",
     "marked": "^4.0.9",
