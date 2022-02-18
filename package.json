@@ -60,7 +60,7 @@
     "replace-ext": "^2.0.0",
     "rollup": "^2.66.0",
     "rollup-plugin-minify-html-literals": "^1.2.6",
-    "sass-embedded": "^1.0.0-rc.1",
+    "sass-embedded": "^1.49.8",
     "stream-array": "^1.1.2",
     "strip-ansi": "^6.0.1",
     "through2": "^4.0.2",
