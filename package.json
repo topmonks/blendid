@@ -66,7 +66,7 @@
     "through2": "^4.0.2",
     "vinyl": "^2.2.1",
     "vinyl-sourcemaps-apply": "^0.2.1",
-    "workbox-build": "^6.4.2"
+    "workbox-build": "^6.5.1"
   },
   "devDependencies": {
     "@material/layout-grid": "^13.0.0",
