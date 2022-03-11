@@ -24,7 +24,7 @@
     "browser-sync": "2.27.7",
     "chalk": "^4.1.2",
     "cloudinary": "^1.28.1",
-    "cssnano": "^5.0.16",
+    "cssnano": "^5.1.2",
     "del": "6.0.0",
     "fancy-log": "^2.0.0",
     "gulp": "^4.0.2",
