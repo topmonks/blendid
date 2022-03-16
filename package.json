@@ -24,7 +24,7 @@
     "browser-sync": "2.27.9",
     "browserslist": "^4.20.2",
     "caniuse-lite": "^1.0.30001317",
-    "chalk": "^4.1.2",
+    "chalk": "^5.0.1",
     "cloudinary": "^1.28.1",
     "cssnano": "^5.1.4",
     "del": "6.0.0",
