@@ -40,7 +40,7 @@ jobs:
           channel: ntf-topmonks-webs
   merge_pr:
     docker:
-      - image: cimg/base:2022.1
+      - image: cimg/base:2022.12
     steps:
       - checkout
       - github/install
