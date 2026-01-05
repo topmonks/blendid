@@ -2,7 +2,7 @@ import module from "node:module";
 import DefaultRegistry from "undertaker-registry";
 import File from "vinyl";
 import gulp_mode from "gulp-mode";
-import htmlmin from "gulp-htmlmin-next";
+import htmlmin from "../../packages/gulp-htmlmin/index.mjs";
 import streamArray from "stream-array";
 import through from "through2";
 import nunjucksRender from "gulp-nunjucks-render";

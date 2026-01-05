@@ -5,7 +5,7 @@ import gulp from "gulp";
 import data from "gulp-data";
 import gulpif from "gulp-if";
 import gulp_mode from "gulp-mode";
-import htmlmin from "gulp-htmlmin-next";
+import htmlmin from "../packages/gulp-htmlmin/index.mjs";
 import inject from "gulp-inject";
 import svgmin from "gulp-svgmin";
 import svgstore from "gulp-svgstore";

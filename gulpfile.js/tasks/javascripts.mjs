@@ -54,11 +54,11 @@ function registerDefaultPlugins(plugins, replacePlugins, minifiOptions) {
   // Minify production build
   if (mode.production()) {
     const {
-      default: minifyHtml
-    } = require("rollup-plugin-minify-html-literals");
+      minifyTemplateLiterals
+    } = require("rollup-plugin-minify-template-literals");
     result.push(
       // minifies lit-html literals
-      minifyHtml(minifiOptions)
+      minifyTemplateLiterals(minifiOptions)
     );
   }
   return result;

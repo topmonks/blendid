@@ -1,5 +1,5 @@
 import DefaultRegistry from "undertaker-registry";
-import markdownToJSON from "gulp-markdown-to-json";
+import markdownToJSON from "../../packages/gulp-markdown-json/index.mjs";
 import merge from "gulp-merge-json";
 import { marked } from "../../lib/markdown.mjs";
 import projectPath from "../../lib/projectPath.mjs";
