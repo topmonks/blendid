@@ -18,12 +18,15 @@ export class RevUpdateJsRegistry extends DefaultRegistry {
   }
   init({ task, src, dest }) {
     if (!(this.config.javascripts || this.config.esbuild)) return;
-    task("update-js", () => {
+    task("update-js", (done) => {
+      if (!fs.existsSync(this.paths.dest)) {
+        return done();
+      }
       const relativePath = (s) => s.replace(this.paths.codeDir, ".");
       const manifest = fs.existsSync(this.paths.manifest)
         ? fs.readFileSync(this.paths.manifest)
         : null;
-      return src(this.paths.src)
+      return src(this.paths.src, { allowEmpty: true })
         .pipe(
           revReplace({
             manifest,
