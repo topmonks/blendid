@@ -10,7 +10,8 @@ jobs:
     resource_class: arm.medium
     steps:
       - checkout
-      - node/install
+      - node/install:
+          node-version: '20'
       - node/install-packages:
           pkg-manager: npm
       - run:
@@ -26,7 +27,8 @@ jobs:
     resource_class: arm.medium
     steps:
       - checkout
-      - node/install
+      - node/install:
+          node-version: '20'
       - node/install-packages:
           pkg-manager: npm
       - run: npm test
