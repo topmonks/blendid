@@ -11,13 +11,11 @@ jobs:
     steps:
       - checkout
       - node/install
-      - node/install-yarn
       - node/install-packages:
-          pkg-manager: yarn-berry
-          override-ci-command: yarn install --immutable
+          pkg-manager: npm
       - run:
           name: Build testing site
-          command: yarn build
+          command: npm run build
       - slack/notify:
           event: fail
           template: basic_fail_1
@@ -29,11 +27,9 @@ jobs:
     steps:
       - checkout
       - node/install
-      - node/install-yarn
       - node/install-packages:
-          pkg-manager: yarn-berry
-          override-ci-command: yarn install --immutable
-      - run: yarn test
+          pkg-manager: npm
+      - run: npm test
       - slack/notify:
           event: fail
           template: basic_fail_1
