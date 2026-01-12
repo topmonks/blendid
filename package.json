@@ -24,7 +24,7 @@
   "dependencies": {
     "@rollup/plugin-alias": "5.0.1",
     "@rollup/plugin-node-resolve": "15.2.3",
-    "@vitejs/plugin-basic-ssl": "1.2.0",
+    "@vitejs/plugin-basic-ssl": "^2.1.3",
     "ansi-colors": "4.1.3",
     "browser-sync": "3.0.4",
     "browserslist": "4.24.0",
@@ -83,7 +83,7 @@
     "vinyl": "3.0.0",
     "vinyl-file": "5.0.0",
     "vinyl-sourcemaps-apply": "0.2.1",
-    "vite": "4.5.14",
+    "vite": "^7.3.1",
     "workbox-build": "7.1.1"
   },
   "devDependencies": {
